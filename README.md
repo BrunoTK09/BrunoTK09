@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **my Portfolio**
  
- 🌱 I’m currently learning **Java, React, JavaScript**
+ 🌱 I’m a Dev but I'm currently work in QA
 
  </div>
 
